@@ -1,7 +1,7 @@
 # AgeInMinutesCalculator
 
-Calculates Age in Minutes
-Android Application 
+Android Application Which Calculates Age in Minutes
+
 
 ## Download APK From Here
 
